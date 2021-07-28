@@ -2,6 +2,19 @@
     width: 20%;
     height: 20%;
 }
+.in{
+    height: 5%;
+    width: 5%;
+    float: right;
+}
+.facebook{
+    height: 5%;
+    width: 5%;
+    float: right;
+}
+.github{
+    float: right;
+}
 .navlist{
     display: flex;
     flex-direction: row;
