@@ -72,6 +72,9 @@ button{
     color: white;
     text-decoration: none;
 }
+.WID-header{
+    margin-top: 300px;
+}
 .WID{
     display: flex;
     padding-right: 35px;
@@ -104,6 +107,20 @@ p{
     font-family: 'Encode Sans Semi Condensed', sans-serif;
     font-size: 20px;
     margin-top: -20px;
+}
+.project{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-bottom: 40px;
+}
+.top{
+    margin-bottom: 80px;
+}
+.project-button{
+    display: flex;
+    align-items: center;
+    
 }
 .work{
     display: flex;
@@ -204,7 +221,7 @@ footer{
     justify-content: space-evenly;
 }
 .resume-skills{
-    margin-left: 30px;
+    margin-left: 40px;
 }
 .download-button{
     text-align: center;
