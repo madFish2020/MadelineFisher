@@ -248,7 +248,7 @@ footer{
     margin-top: -5px;
 }
 
-.overview, .ideation, .research-definition, .wireframing-prototyping,.midfi, .hifi, .final-thoughts, .homescreens{
+.overview, .ideation, .research-definition, .wireframing-prototyping,.midfi, .hifi, .final-thoughts, .main-features{
   text-align: center;
   margin-left: 100px;
   margin-right: 100px;
@@ -258,10 +258,8 @@ footer{
     float: right;
     margin-right: 40px;
 }
-.tester{
-   margin-right: -4000px;
 
-}
+
 .persona-img{
     width: 80%;
     height: 80%
