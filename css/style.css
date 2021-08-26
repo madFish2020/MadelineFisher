@@ -226,6 +226,13 @@ footer{
 .download-button{
     text-align: center;
 }
+/*cross project formatting*/
+.overview, .ideation, .research-definition, .wireframing-prototyping,.midfi, .hifi, .final-thoughts, .main-features, .project-features{
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+      
+  }
 /*Dual Nature Extras*/
 
 .mission{
@@ -286,17 +293,10 @@ footer{
     margin-top: -5px;
 }
 
-.overview, .ideation, .research-definition, .wireframing-prototyping,.midfi, .hifi, .final-thoughts, .main-features{
-  text-align: center;
-  margin-left: 100px;
-  margin-right: 100px;
-    
-}
 .starter{
     float: right;
     margin-right: 40px;
 }
-
 
 .persona-img{
     width: 80%;
@@ -312,4 +312,17 @@ footer{
     overflow: hidden;
     white-space: nowrap;
 }
+/*FCC Extras*/
+.fcc-four{
+    width: 70%;
+}
+.desktop-mockups{
+    display: flex;
+    flex-direction: row;
+    margin-left: 220px;
 
+}
+.desk-img{
+    width:40%;
+    height: 40%;
+}
