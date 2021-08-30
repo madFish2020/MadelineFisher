@@ -227,7 +227,8 @@ footer{
     text-align: center;
 }
 /*cross project formatting*/
-.overview, .ideation, .research-definition, .wireframing-prototyping,.midfi, .hifi, .final-thoughts, .main-features, .project-features{
+.overview, .ideation, .research-definition, .wireframing-prototyping,.midfi, .hifi, .final-thoughts,
+.home-screen, .main-features, .project-features{
     text-align: center;
     margin-left: 100px;
     margin-right: 100px;
@@ -325,4 +326,9 @@ footer{
 .desk-img{
     width:40%;
     height: 40%;
+}
+/*Lab Extras*/
+.lab-img{
+    width:60%;
+    height: 60%;
 }
